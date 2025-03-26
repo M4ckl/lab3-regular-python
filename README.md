@@ -1,18 +1,18 @@
--Задание 1
+Task 1 (Main Assignment):
 
-Программа должна считать количество смайликов определённого вида (вид смайлика описан в таблице вариантов) в предложенном тексте. 
-Все смайлики имеют такую структуру: [глаза][нос][рот].
+The program should count the number of smileys of a specific type (the type of smiley is defined in the variant table) in the given text. All smileys have the following structure:
+[eyes][nose][mouth]
 
--Дополнительное задание 1:
+Additional Task 1:
 
-Задание:
+Task:
 
-Реализуйте программный продукт на языке Python, используя регулярные выражения по варианту, представленному в таблице. 
-Для своей программы придумайте минимум 5 тестов. Каждый тест является отдельной сущностью, передаваемой регулярному выражению для обработки. 
-Для каждого теста необходимо самостоятельно найти правильный ответ.
+Implement a Python program using regular expressions, based on the variant provided in the table.
+Come up with at least 5 test cases for your program. Each test case should be a separate string input passed to the regular expression for processing.
+You must determine the correct expected result for each test case yourself.
 
--Дополнительное задание 2
+Additional Task 2:
 
-Задание:
+Task:
 
-С помощью регулярного выражения найти в тексте слова, в которых встречается строго одна гласная буква (встречаться она может несколько раз).
+Using a regular expression, find all words in a text that contain exactly one unique vowel letter, although that vowel may appear multiple times in the word.
